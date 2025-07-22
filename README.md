@@ -13,6 +13,6 @@
 
 ### Conecte-se comigo:
 
-[<img align="left" alt="LinkedIn" width="33px" src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/eduardo-lima-6691291bb/)
-[<img align="left" alt="GitHub" width="33px" src="https://skillicons.dev/icons?i=github" />](https://github.com/eduardoolima)
-[<img align="left" alt="Instagram" width="33px" src="https://skillicons.dev/icons?i=instagram" />](https://www.instagram.com/eduardo_olima1/)
+[<img align="left" alt="LinkedIn" width="33px" src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/eduardo-lima-6691291bb/){:target="_blank" rel="noopener noreferrer"}
+[<img align="left" alt="GitHub" width="33px" src="https://skillicons.dev/icons?i=github" />](https://github.com/eduardoolima){:target="_blank" rel="noopener noreferrer"}
+[<img align="left" alt="Instagram" width="33px" src="https://skillicons.dev/icons?i=instagram" />](https://www.instagram.com/eduardo_olima1/){:target="_blank" rel="noopener noreferrer"}
