@@ -6,8 +6,6 @@
 * **Ferramentas/Outros:** Git, Visual Studio, VS Code, Unity, postman, godot, git
 
 ---
-### Linguagens Mais Usadas
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoolima&layout=compact&hide_title=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Certificações
 
