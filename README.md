@@ -3,13 +3,13 @@
 * **Linguagens:** JavaScript, C#, HTML, CSS, C++, SQL
 * **Frameworks/Bibliotecas:** React, Node.js, .Net, ASP.NET, Razor, Web Forms, Windows Forms
 * **Bancos de Dados:** SQLServer, MySQL, SqLite
-* **Ferramentas/Outros:** Git, Visual Studio, VS Code, Unity, postman
+* **Ferramentas/Outros:** Git, Visual Studio, VS Code, Unity, postman, godot, git
 
 ---
 
 ### Tecnologias que domino:
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,dotnet,cs,html,css,powershell,mysql,sqlite,visualstudio,vscode,unity,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,dotnet,cs,html,css,mysql,sqlite,visualstudio,vscode,unity,postman,godot,git,github)](https://skillicons.dev)
 
 ### Conecte-se comigo:
 
